@@ -1,6 +1,6 @@
 # Some tests using botcity tools
 
-Python 3.11.4
-pandas 2.1.0
-cookiecutter 2.3.0
+Python 3.12.3
+pandas 2.2.2
+cookiecutter 2.6.0
 
